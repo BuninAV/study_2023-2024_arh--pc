@@ -133,6 +133,7 @@ header-includes:
 Результат работы программы (рис. @fig:fig8) и (рис. @fig:fig9)
 
 ![Работа программы](image/img8.png){#fig:fig8 width=70%}
+
 ![Содержимое текстового файла](image/img9.png){#fig:fig9 width=70%}
 
 # Выводы
